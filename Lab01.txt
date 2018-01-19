@@ -1,0 +1,9 @@
+1. cd directory_path
+2. mkdir directory_path
+3. mv old_directory_path new_directory_path
+4. ls directory_name
+5. mv filename new_directory_name
+6. cp filename new_directory_name
+7. grep -interpretation "string" file_path
+8. ssh user@host remote_command
+9. r -rf folder_name
